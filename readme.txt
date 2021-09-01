@@ -4,7 +4,8 @@ attached alongside.
 
 step 1 : Download 102-flower Oxford dataset through this url :https://www.robots.ox.ac.uk/~vgg/data/flowers/102/
 
-step 2 : create environment of conda with this requirements supplied in the requirements file ("project_2.yml")
+step 2 : create environment of conda with this requirements supplied in the requirements file ("project_flower.yml")
+or create conda env through this file
 
 step 3: 
 1. In normal folder
